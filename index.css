@@ -1,0 +1,32 @@
+a {
+    color:red;
+}
+.profile {
+    background-color: green;
+    color: purple;
+}
+#name {
+    background-color: white;
+    color: black;
+}
+.profile > #major {
+    color:pink;
+}
+
+.card{
+    border: 2px;
+    border-style: solid;
+    border-color: aqua;
+    margin: 3px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#food {
+    text-align: center;
+}
+
+
+
